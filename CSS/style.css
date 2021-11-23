@@ -1,0 +1,35 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+    background-color: #77E4D4;
+}
+.menu
+{
+    
+    background-color: #b3fe98;
+    border: 30px ;
+    padding: 10rem;
+    margin: 10rem;
+}
+img
+{
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    
+}
+.buttons
+{
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+}
+button img
+{
+    height: 3rem;
+    width: 3rem;
+}
+
+
+
